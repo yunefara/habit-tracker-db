@@ -1,0 +1,14 @@
+{
+  "name": "habit-tracker",
+  "version": "1.0.0",
+  "description": "This is back-end of the group project, started by few for learning purposes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yunus Arabaci",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.6.2"
+  }
+}
